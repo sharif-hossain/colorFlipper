@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.container h2 {
+    background: black;
+    color: white;
+    margin: 0 300px;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 2.5rem;
+    font-weight: bold;
+}
+
+.color {
+    color: blue;
+}
+
+main {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
